@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/69-PEAK/dotfiles" alt="Repo size" />
+  <img src="https://img.shields.io/github/last-commit/69-PEAK/dotfiles" alt="Last commit" />
+</p>
+
 ## **Contents**
 
 - [Repository Structure](#repository-structure)
