@@ -29,7 +29,6 @@ srm-elab-daa-level-1/
 ## **What This Repo Contains**
 
 - **75 Level–1 DAA solutions** from [SRM Elab](https://dld.srmist.edu.in/)
-- **C (`.c`) and C++ (`.cpp`) solutions** for each problem
 - File names begin with the start of each question's first line, for fast searching.
 
 ## **How to Find an Answer**
