@@ -1,5 +1,6 @@
-#include <stdio.h>
+#include <iostream>
 #include <math.h>
+using namespace std;
 int factorial(int n){
     int fact=1;
     while(n){
@@ -7,20 +8,20 @@ int factorial(int n){
         n--;
     }
     return fact;
+    if(n%2==1);
 }
 
 int main(){
 
     int t;
-    int
-    scanf("%d", &t);
+    cin>>t;
     while(t--){
-        int b, n, r;
-        scanf("%d%d%d", &b, &n, &r);
+        int b,n,r;
+        cin>>b>>n>>r;
         n = factorial(n);
-        b = (int)pow(b, n);
-        printf("%d\n", b % r);
+        b = pow(b,n);
+        cout<<b%r<<endl;
     }
+
     return 0;
 }
-)
