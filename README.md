@@ -28,7 +28,7 @@ srm-elab-daa-level-1/
 
 ## **What This Repo Contains**
 
-- **75 Level–1 DAA solutions** from [SRM Elab](https://dld.srmist.edu.in/)
+- **127 Level–1 DAA solutions** from [SRM Elab](https://dld.srmist.edu.in/)
 - File names begin with the start of each question's first line, for fast searching.
 
 ## **How to Find an Answer**
