@@ -14,3 +14,4 @@ int main()
  cout<<ceil(n/10)<<endl;
  }
  return 0;
+}
